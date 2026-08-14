@@ -1,0 +1,15 @@
+{
+  "name": "keshcomponents",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KeshComponents AI PCB design copilot",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google/genai": "^2.17.0"
+  }
+}
